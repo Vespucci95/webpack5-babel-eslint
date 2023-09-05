@@ -1,0 +1,13 @@
+{
+  "name": "webpack5-babel-eslint",
+  "version": "1.0.0",
+  "description": "webpack5-babel-eslint",
+  "main": "app.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "author": "Vespucci95",
+  "email": "developer.vespucci95@gmail.com",
+  "repository": "https://github.com/Vespucci95/webpack5-babel-eslint"
+}
